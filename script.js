@@ -21,4 +21,4 @@
 // How could we make it so that each list item was in a card from HTML and looked pretty?
 
 
-// If you finish early: Try adding a form element that allows the user to add an animal to the list themself. 
+// If you finish early: Try adding a form element that allows the user to add an animal to the list themself, and also consider how you can make your webpage look more user-accessible using CSS and HTML.
